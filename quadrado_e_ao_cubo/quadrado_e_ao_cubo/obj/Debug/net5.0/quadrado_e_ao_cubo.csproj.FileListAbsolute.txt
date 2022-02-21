@@ -1,0 +1,16 @@
+C:\revisão C#\quadrado_e_ao_cubo\quadrado_e_ao_cubo\bin\Debug\net5.0\quadrado_e_ao_cubo.exe
+C:\revisão C#\quadrado_e_ao_cubo\quadrado_e_ao_cubo\bin\Debug\net5.0\quadrado_e_ao_cubo.deps.json
+C:\revisão C#\quadrado_e_ao_cubo\quadrado_e_ao_cubo\bin\Debug\net5.0\quadrado_e_ao_cubo.runtimeconfig.json
+C:\revisão C#\quadrado_e_ao_cubo\quadrado_e_ao_cubo\bin\Debug\net5.0\quadrado_e_ao_cubo.runtimeconfig.dev.json
+C:\revisão C#\quadrado_e_ao_cubo\quadrado_e_ao_cubo\bin\Debug\net5.0\quadrado_e_ao_cubo.dll
+C:\revisão C#\quadrado_e_ao_cubo\quadrado_e_ao_cubo\bin\Debug\net5.0\ref\quadrado_e_ao_cubo.dll
+C:\revisão C#\quadrado_e_ao_cubo\quadrado_e_ao_cubo\bin\Debug\net5.0\quadrado_e_ao_cubo.pdb
+C:\revisão C#\quadrado_e_ao_cubo\quadrado_e_ao_cubo\obj\Debug\net5.0\quadrado_e_ao_cubo.csproj.AssemblyReference.cache
+C:\revisão C#\quadrado_e_ao_cubo\quadrado_e_ao_cubo\obj\Debug\net5.0\quadrado_e_ao_cubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\revisão C#\quadrado_e_ao_cubo\quadrado_e_ao_cubo\obj\Debug\net5.0\quadrado_e_ao_cubo.AssemblyInfoInputs.cache
+C:\revisão C#\quadrado_e_ao_cubo\quadrado_e_ao_cubo\obj\Debug\net5.0\quadrado_e_ao_cubo.AssemblyInfo.cs
+C:\revisão C#\quadrado_e_ao_cubo\quadrado_e_ao_cubo\obj\Debug\net5.0\quadrado_e_ao_cubo.csproj.CoreCompileInputs.cache
+C:\revisão C#\quadrado_e_ao_cubo\quadrado_e_ao_cubo\obj\Debug\net5.0\quadrado_e_ao_cubo.dll
+C:\revisão C#\quadrado_e_ao_cubo\quadrado_e_ao_cubo\obj\Debug\net5.0\ref\quadrado_e_ao_cubo.dll
+C:\revisão C#\quadrado_e_ao_cubo\quadrado_e_ao_cubo\obj\Debug\net5.0\quadrado_e_ao_cubo.pdb
+C:\revisão C#\quadrado_e_ao_cubo\quadrado_e_ao_cubo\obj\Debug\net5.0\quadrado_e_ao_cubo.genruntimeconfig.cache
